@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PoundsToKilograms {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
-            // Input
+            // 
             System.out.print("Enter weight in pounds: ");
             double pounds = sc.nextDouble();
 
